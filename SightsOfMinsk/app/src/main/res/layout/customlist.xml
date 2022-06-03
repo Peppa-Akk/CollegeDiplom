@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="144sp"
+    android:background="#fefefe"
+    android:baselineAligned="false">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_marginTop="20sp"
+        android:layout_width="115sp"
+        android:layout_height="95sp"
+        android:layout_centerVertical="true"
+        app:srcCompat="@android:color/background_light"
+        android:scaleType="fitXY"
+        android:contentDescription="@string/_2" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="2sp"
+        android:id="@+id/line"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="140dp" />
+
+    <TextView
+        android:id="@+id/namesight"
+        android:layout_width="wrap_content"
+        android:layout_toRightOf="@+id/imageView"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="10sp"
+        android:textColor="#333"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        >
+    </TextView>
+
+    <TextView
+        android:id="@+id/descriptionsight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/namesight"
+        android:layout_toRightOf="@+id/imageView"
+        android:layout_marginStart="12sp"
+        android:textColor="#333"
+        android:textSize="12sp"
+        android:textStyle="italic"
+        />
+
+</RelativeLayout>

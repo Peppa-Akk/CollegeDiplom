@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_map"
+            android:title="Карта"
+            android:icon="@mipmap/placeholder"/>
+
+        <item android:id="@+id/nav_link"
+            android:title="Понравившиеся места"
+            android:icon="@mipmap/share"/>
+
+        <item android:id="@+id/nav_help"
+            android:title="Справка"
+            android:icon="@mipmap/information"/>
+
+        <item android:id="@+id/nav_settings"
+            android:title="Настройки"
+            android:icon="@mipmap/settingsgears"/>
+
+        <item android:id="@+id/nav_logout"
+            android:title="Выход"
+            android:icon="@mipmap/logout"/>
+    </group>
+
+</menu>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Setting">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:layout_marginStart="25sp"
+            android:layout_marginEnd="20sp"
+            android:textSize="21sp"
+            android:text='Изменить минимальный рейтинг для статуса \"Понравилось\" '/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="44sp"
+            android:orientation="horizontal"
+            android:layout_marginTop="9sp">
+
+            <RatingBar
+                android:id="@+id/ratingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="53sp"
+                android:scrollbarStyle="outsideOverlay"
+                android:numStars="5"
+                android:stepSize="1"
+                />
+
+            <TextView
+                android:id="@+id/tvRating"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5sp"
+                android:layout_gravity="center"
+                android:textSize="26sp"
+                />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnSaveRating"
+            android:layout_width="265sp"
+            android:layout_height="40sp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15sp"
+            android:background="@drawable/button"
+            android:text="Сохранить рейтинг"
+            android:textColor="@color/white"
+            android:textSize="21sp"/>
+
+        <EditText
+            android:id="@+id/etOldPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30sp"
+            android:layout_marginRight="30sp"
+            android:layout_marginTop="45sp"
+            android:background="@drawable/fields"
+            android:ems="10"
+            android:hint="Действующий пароль"
+            android:textSize="20sp"
+            android:inputType="textPassword"
+            android:padding="10sp"
+            android:textColor="#000000" />
+
+        <EditText
+            android:id="@+id/etPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30sp"
+            android:layout_marginRight="30sp"
+            android:layout_marginTop="20sp"
+            android:background="@drawable/fields"
+            android:ems="10"
+            android:hint="Пароль"
+            android:textSize="20sp"
+            android:inputType="textPassword"
+            android:padding="10sp"
+            android:textColor="#000000" />
+
+        <EditText
+            android:id="@+id/etPasswordRepeat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30sp"
+            android:layout_marginRight="30sp"
+            android:layout_marginTop="20sp"
+            android:background="@drawable/fields"
+            android:ems="10"
+            android:hint="Повтор пароля"
+            android:textSize="20sp"
+            android:inputType="textPassword"
+            android:padding="10sp"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/btnSavePassword"
+            android:layout_width="265sp"
+            android:layout_height="40sp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30sp"
+            android:background="@drawable/button"
+            android:text="Сохранить пароль"
+            android:textColor="@color/white"
+            android:textSize="21sp"/>
+    </LinearLayout>
+
+</RelativeLayout>

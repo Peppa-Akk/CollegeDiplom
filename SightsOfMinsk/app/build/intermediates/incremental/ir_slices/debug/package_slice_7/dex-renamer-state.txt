@@ -1,0 +1,4 @@
+#Fri Jun 08 19:51:34 MSK 2018
+base.0=C\:\\Users\\hasma\\AndroidStudioProjects\\SightsOfMinsk\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\52
+path.0=classes.dex
+renamed.0=classes.dex

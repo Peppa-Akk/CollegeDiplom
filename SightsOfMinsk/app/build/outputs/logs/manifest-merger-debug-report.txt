@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:2:1-66:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c4882ab899d6c240b6ba1cb9a33a40ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2bd5b77d101a96c2eae02dd4d5254e8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\877c0bc21b88513036ddce52319be6d2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\552301ad247ee2224c18973c18997aa6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f42a816227384c24b4e23e65e7eeae53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0a650759682506f8ea35b675d07aea84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8f3e8a1cfcbffb39969aa4d8cdc02ea1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7072d4760e690b070cabb18e92950b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\70e28cf3c362eb908812768df87edd21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8ff4ad0c315e1b8f80ed77a71b4ac301\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\dc0783070b83c6a8583745a7e84155c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fe59af532164c4ad3b0a085a4653e5db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\425818f7d648c3e8e28a908594520f7c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fd95e30c64a54a325df7e773cd96579e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\59f6089e9257cebe6476fa9d9efc2f90\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0d4864a28543431467963fd70eab6a3e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55fe4e110a8f0ec7aa1c22a88c78602d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:5:5-64:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\877c0bc21b88513036ddce52319be6d2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\877c0bc21b88513036ddce52319be6d2\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:7:9-56
+	android:allowBackup
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.hasma.sightsofminsk.Splash
+ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:11:9-19:20
+	android:screenOrientation
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:12:13-49
+	android:configChanges
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:13:13-48
+	android:name
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:11:19-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.hasma.sightsofminsk.Main_menu
+ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:screenOrientation
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:21:13-49
+	android:configChanges
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:22:13-48
+	android:theme
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:23:13-38
+intent-filter#category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:25:13-27:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:26:27-73
+activity#com.example.hasma.sightsofminsk.Description_Activity
+ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:29:9-37:20
+	android:screenOrientation
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:32:13-49
+	android:configChanges
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:33:13-48
+	android:theme
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:30:13-49
+activity#com.example.hasma.sightsofminsk.MainActivity
+ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:38:9-46:20
+	android:screenOrientation
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:41:13-49
+	android:configChanges
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:42:13-48
+	android:theme
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:39:13-41
+activity#com.example.hasma.sightsofminsk.VisionImage
+ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:47:9-55:20
+	android:screenOrientation
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:50:13-49
+	android:configChanges
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:51:13-48
+	android:theme
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:49:13-45
+	android:name
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:48:13-40
+activity#com.example.hasma.sightsofminsk.Setting
+ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:56:9-63:20
+	android:screenOrientation
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:58:13-49
+	android:label
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:57:13-38
+	android:configChanges
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:59:13-48
+	android:name
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml:56:19-42
+uses-sdk
+INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c4882ab899d6c240b6ba1cb9a33a40ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c4882ab899d6c240b6ba1cb9a33a40ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2bd5b77d101a96c2eae02dd4d5254e8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2bd5b77d101a96c2eae02dd4d5254e8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\877c0bc21b88513036ddce52319be6d2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\877c0bc21b88513036ddce52319be6d2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\552301ad247ee2224c18973c18997aa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\552301ad247ee2224c18973c18997aa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f42a816227384c24b4e23e65e7eeae53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f42a816227384c24b4e23e65e7eeae53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0a650759682506f8ea35b675d07aea84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0a650759682506f8ea35b675d07aea84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8f3e8a1cfcbffb39969aa4d8cdc02ea1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\8f3e8a1cfcbffb39969aa4d8cdc02ea1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7072d4760e690b070cabb18e92950b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7072d4760e690b070cabb18e92950b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\70e28cf3c362eb908812768df87edd21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\70e28cf3c362eb908812768df87edd21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8ff4ad0c315e1b8f80ed77a71b4ac301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8ff4ad0c315e1b8f80ed77a71b4ac301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\dc0783070b83c6a8583745a7e84155c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\dc0783070b83c6a8583745a7e84155c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fe59af532164c4ad3b0a085a4653e5db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fe59af532164c4ad3b0a085a4653e5db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\425818f7d648c3e8e28a908594520f7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\425818f7d648c3e8e28a908594520f7c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fd95e30c64a54a325df7e773cd96579e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fd95e30c64a54a325df7e773cd96579e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\59f6089e9257cebe6476fa9d9efc2f90\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\59f6089e9257cebe6476fa9d9efc2f90\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0d4864a28543431467963fd70eab6a3e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0d4864a28543431467963fd70eab6a3e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55fe4e110a8f0ec7aa1c22a88c78602d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hasma\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55fe4e110a8f0ec7aa1c22a88c78602d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hasma\AndroidStudioProjects\SightsOfMinsk\app\src\main\AndroidManifest.xml
